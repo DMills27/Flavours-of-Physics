@@ -1,11 +1,9 @@
-First submission
+Flavours of Physics
 ----------------
-Follow the instructions [First submission (python)](https://github.com/yandexdataschool/flavours-of-physics-start/wiki/First-submission-(python)) to prepare your first solution
+Flavours of Physics was a machine learning competition, hosted by Kaggle and partly sponsed by CERN. The goal of the competition was to gain sensitivity in the search for τ → 3μ decays. My entry ranked 80 out of 673 teams on the private leaderboard. I will explain my methodology and discuss some random thoughts about the competition. 
 
-More complex models
+τ → 3μ decays?
 -------------------
-Follow [TMVA training, Boosting to uniformity](https://github.com/yandexdataschool/flavours-of-physics-start/wiki/TMVA-training,-Boosting-to-uniformity) to play with another machine learning library or to use 'flatness-oriented' classifiers
-
-ROOT Submission 
-----------------
-We have prepared c code to run TMVA in ROOT to produce submission. Follow the instructions [First submission using root (c++)](https://github.com/yandexdataschool/flavours-of-physics-start/wiki/First-submission-(root,-С))
+It is a well known fact that [lepton flavor](https://en.wikipedia.org/wiki/Flavour_(particle_physics))(LF) numbers are strictly conserved in the Standard Model (SM). However, observations from certain neutrino experiments strongly suggests that there is some lepton
+flavor mixing as well. What this means is that charged lepton flavor violating (cLFV) processes may also occur at some level.
+Many current experiments are paying keen attention to the search for LFV processes in the charged lepton sector such as tau decays, Z → μτ decays, etc. LFV observed in experiments would be evidence of new physics beyond the SM. 
